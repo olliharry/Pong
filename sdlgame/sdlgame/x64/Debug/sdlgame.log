@@ -1,0 +1,4 @@
+﻿  sdlgame.c
+C:\Users\julia\Desktop\uploaded work\game\sdlgame\sdlgame\sdlgame.c(75,11): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\julia\Desktop\uploaded work\game\sdlgame\sdlgame\sdlgame.c(174,50): warning C4090: '=': different 'const' qualifiers
+  sdlgame.vcxproj -> C:\Users\julia\Desktop\uploaded work\game\sdlgame\x64\Debug\sdlgame.exe
